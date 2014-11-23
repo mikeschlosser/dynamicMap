@@ -1,0 +1,2 @@
+.canvasWrapper {width:100%;}
+#canvasOne, #mapCanvas {display:block;max-width:710px;max-height:439px;margin:0 auto;}
